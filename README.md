@@ -1,1 +1,1 @@
-[mianf.json.json](https://github.com/ETahuh/welcome/files/13061943/mianf.json.json)
+file:///C:/AutoSet10/public_josn/mianf.json.json
